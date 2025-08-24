@@ -1,6 +1,6 @@
 # Robo Painter
 
-This robot can take requests and pait you a beautiful picture! 🌈
+This robot can take requests and paint you a beautiful picture! 🌈
 
 ## Dependencies
 
